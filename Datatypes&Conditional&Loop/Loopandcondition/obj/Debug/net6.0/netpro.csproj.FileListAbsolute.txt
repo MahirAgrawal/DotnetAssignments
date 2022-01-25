@@ -1,0 +1,30 @@
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\netpro.exe
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\netpro.deps.json
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\netpro.runtimeconfig.json
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\netpro.dll
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\ref\netpro.dll
+C:\Users\MIHIR\Desktop\netpro\bin\Debug\net6.0\netpro.pdb
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.dll
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\ref\netpro.dll
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.pdb
+C:\Users\MIHIR\Desktop\netpro\obj\Debug\net6.0\netpro.genruntimeconfig.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\netpro.exe
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\netpro.deps.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\netpro.runtimeconfig.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\netpro.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\ref\netpro.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\bin\Debug\net6.0\netpro.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\ref\netpro.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\First\netpro\obj\Debug\net6.0\netpro.genruntimeconfig.cache

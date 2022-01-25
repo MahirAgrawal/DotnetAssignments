@@ -1,0 +1,15 @@
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\Second.exe
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\Second.deps.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\Second.runtimeconfig.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\Second.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\ref\Second.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\bin\Debug\net6.0\Second.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\ref\Second.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Second\obj\Debug\net6.0\Second.genruntimeconfig.cache
