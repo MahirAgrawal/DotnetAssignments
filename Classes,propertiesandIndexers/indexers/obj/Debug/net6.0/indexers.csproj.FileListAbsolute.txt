@@ -1,0 +1,15 @@
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\indexers.exe
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\indexers.deps.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\indexers.runtimeconfig.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\indexers.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\ref\indexers.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\bin\Debug\net6.0\indexers.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\ref\indexers.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Classes,propertiesandIndexers\indexers\obj\Debug\net6.0\indexers.genruntimeconfig.cache
