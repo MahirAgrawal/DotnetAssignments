@@ -1,0 +1,15 @@
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\LambdaExpression.exe
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\LambdaExpression.deps.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\LambdaExpression.runtimeconfig.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\LambdaExpression.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\ref\LambdaExpression.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\bin\Debug\net6.0\LambdaExpression.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\LambdaExpressionandDelegateExamples\LambdaExpression\obj\Debug\net6.0\LambdaExpression.genruntimeconfig.cache

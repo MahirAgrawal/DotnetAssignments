@@ -1,0 +1,15 @@
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\myfolder.exe
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\myfolder.deps.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\myfolder.runtimeconfig.json
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\myfolder.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\ref\myfolder.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\bin\Debug\net6.0\myfolder.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.csproj.AssemblyReference.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.AssemblyInfoInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.AssemblyInfo.cs
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.csproj.CoreCompileInputs.cache
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\ref\myfolder.dll
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.pdb
+C:\Users\MIHIR\Desktop\DotNet Assignment\Collections,LambdaExpressionandDelegateExamples\collections\myfolder\obj\Debug\net6.0\myfolder.genruntimeconfig.cache
